@@ -28,7 +28,7 @@ Welcome to the Snake Game project! This is a JavaScript implementation of the cl
 2. Open the index.html file in your web browser.
 3. Use the arrow keys on your keyboard to control the snake's movement.
 4. Eat food, grow longer, and aim for a high score!
-
+> Or click : [Snake Game](https://jayson-wcs.github.io/projet-snake/)
 ### Contributing 
 
 We welcome contributions to enhance the Snake Game project. If you have any ideas, suggestions, bug fixes, or improvements, feel free to open an issue or submit a pull request on our GitHub repository.
